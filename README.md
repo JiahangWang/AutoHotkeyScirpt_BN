@@ -1,3 +1,3 @@
-# AutoHotkeyScirpt_Battlenation
+# AutoHotkeyScirpt_BN
 
-AutoHotkey automation scripts for Battlenation.
+AutoHotkey automation scripts for BN.
